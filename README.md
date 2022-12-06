@@ -1,5 +1,5 @@
 # SideQuest
-**APP NAME:** SideQuest
+APP NAME: SideQuest
 
 **APP TAGLINE:** App for students to make easy money by connecting them to organizations/people offering rewards for gigs, research participation, surveys, etc.
 
