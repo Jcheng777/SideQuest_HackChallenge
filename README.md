@@ -33,7 +33,14 @@ CreatePost Screen:
 <img width="378" alt="Screenshot 2022-12-02 at 11 54 23 PM" src="https://user-images.githubusercontent.com/17365838/205424549-2480d149-edf1-4c25-a4b9-4f5e9fcb6b43.png">
 
 
+Profile Screen: 
+
 <img width="405" alt="Screenshot 2022-12-02 at 11 54 31 PM" src="https://user-images.githubusercontent.com/17365838/205424551-271ccc2d-a14e-42cf-9da2-6c817772e79d.png">
 
 
+Chat Screen: 
+
 <img width="396" alt="Screenshot 2022-12-02 at 11 55 09 PM" src="https://user-images.githubusercontent.com/17365838/205424552-719a147a-f2de-404b-b592-53c3811d99be.png">
+
+
+IOS ELEMENTS: For our app, we used SnapKit, a DSL to make Auto Layout easy on iOS. We implemented UICollectionViews for filters and job postings. In addition, we used UITabBar and UINavigationController to navigate between different screens. 
