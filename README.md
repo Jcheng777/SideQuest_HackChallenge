@@ -15,6 +15,7 @@ Login Screen:
 
 <img width="325" alt="Screenshot 2022-12-06 at 2 57 35 PM" src="https://user-images.githubusercontent.com/17365838/206010001-59283f73-56a2-4490-b781-d22325f51323.png">
 
+
 SignUp Screen:
 
 <img width="321" alt="Screenshot 2022-12-06 at 2 58 01 PM" src="https://user-images.githubusercontent.com/17365838/206010077-c7d992c7-1583-45c3-9a49-a5cc2e1826bf.png">
@@ -23,5 +24,7 @@ SignUp Screen:
 
 
 HomePage Screen:
+
+<img width="361" alt="Screenshot 2022-12-02 at 11 53 53 PM" src="https://user-images.githubusercontent.com/17365838/205424548-e9362415-26e5-4325-b064-e0f03506ea89.png">
 
 
