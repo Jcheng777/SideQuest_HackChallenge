@@ -11,4 +11,4 @@ SCREENSHOTS FROM OUR APP:
 
 Login Screen: 
 
-![simulator_screenshot_56B20F84-E19A-469D-916A-7B057C74DC29](https://user-images.githubusercontent.com/17365838/206009402-77d133a3-e6f8-4386-8b76-93faa3c56989.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-12-06 at 14 54 44](https://user-images.githubusercontent.com/17365838/206009591-fb48e591-018e-4f62-bee0-860c3146d249.png)
