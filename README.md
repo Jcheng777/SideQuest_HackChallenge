@@ -1,5 +1,5 @@
 # SideQuest
-APP NAME: SideQuest
+APP NAME: SideQuest - "WON BEST OVERALL WINNER OF CORNELL APPDEV HACK CHALLENGE"
 
 APP TAGLINE: App for students to make easy money by connecting them to organizations/people offering rewards for gigs, research participation, surveys, etc.
 
